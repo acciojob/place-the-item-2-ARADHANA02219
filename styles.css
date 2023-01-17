@@ -1,2 +1,17 @@
-
+.Container{
+	background-color:lightblue;
+	display:flex;
+	flex-direction:row;
+	flex-wrap:  wrap;
+	justify content:center;
+	align-content:center; 
+}
+.Container .item{
+	
+				 
+	width: 100px;
+	background-color:darkblue;
+	color:white;
+	margin: 40px 10px;
+}
 /* Your CSS Code here. */
