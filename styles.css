@@ -1,15 +1,16 @@
 .Container{
 	background-color:lightblue;
 	display:flex;
+	height:400px;
 	flex-direction:row;
 	flex-wrap:  wrap;
 	justify-content:center;
-	align-item:center; 
+	align-content:center; 
 }
 .Container .item{
 	
 				 
-	width: 100px;
+	width: 20%;
 	background-color:darkblue;
 	color:white;
 	margin: 40px 10px;
